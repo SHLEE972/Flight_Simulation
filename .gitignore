@@ -1,0 +1,40 @@
+# Unreal Engine generated folders (including plugin build outputs)
+**/Binaries/
+**/DerivedDataCache/
+**/Intermediate/
+**/Saved/
+
+# IDE-generated files
+**/.vs/
+**/.idea/
+**/.vscode/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Local caches and logs
+**/cesium-request-cache.sqlite*
+*.log
+
+# Packaged builds and archives
+*.zip
+*.7z
+*.rar
+*.tar
+*.gz
+
+# Extra-large project asset (kept locally; omitted from GitHub)
+/FlightSimTest-260920/FlightSimTest/Content/CommercialPlane/Meshes/SK_CommercialPlane_LOD0.uasset
+
+# Local source snapshots used to build the chronological Git history
+/FlightSimTest_260919/
+/FlightSimTest-260920/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
+
